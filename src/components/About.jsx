@@ -26,13 +26,6 @@ export default function About() {
 
           <p className="text-block">
             {t(
-              "Aile şirketimizde yaklaşık iki yıl Konya satış sorumluluğu alarak satış, müşteri ilişkileri ve saha operasyonlarında tecrübe kazandım.",
-              "I worked for about two years as the Konya sales lead in our family business, gaining experience in sales, customer relations, and field operations."
-            )}
-          </p>
-
-          <p className="text-block">
-            {t(
               "Python, C#, makine öğrenmesi ve veri odaklı yaklaşımlarla işletmeler için ölçülebilir çözümler üretmeye odaklanıyorum.",
               "I focus on building measurable solutions for businesses using Python, C#, machine learning, and data-driven methods."
             )}
