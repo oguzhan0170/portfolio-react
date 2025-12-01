@@ -60,6 +60,14 @@ export default function Projects() {
       tags: "C# · .NET · Windows Form · System Design",
     },
     {
+      slug: "minichain",
+      titleTr: "MiniChain – Rust ile Mini Blockchain",
+      titleEn: "MiniChain – Rust Minimal Blockchain",
+      descTr: "Rust ve Proof-of-Work ile geliştirilmiş mini blockchain uygulaması.",
+      descEn: "A minimal blockchain built with Rust and Proof-of-Work.",
+      tags: "Rust · PoW · Blockchain",
+    },
+    {
       slug: "gams-sudoku",
       titleTr: "GAMS ile Matematiksel Modelleme",
       titleEn: "GAMS Mathematical Programming",

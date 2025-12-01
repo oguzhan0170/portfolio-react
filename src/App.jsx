@@ -14,6 +14,7 @@ import StockAI from "./project-pages/stockai.jsx";
 import DbAnalysis from "./project-pages/db-analysis.jsx";
 import Hackathon from "./project-pages/hackathon.jsx";
 import FactorySystem from "./project-pages/factory-system.jsx";
+import MiniChain from "./project-pages/miniBlockchain.jsx";
 import GamsSudoku from "./project-pages/gams-sudoku.jsx";
 import ISG from "./project-pages/isg.jsx";
 
@@ -50,6 +51,7 @@ export default function App() {
           <Route path="/projects/db-analysis" element={<DbAnalysis />} />
           <Route path="/projects/hackathon" element={<Hackathon />} />
           <Route path="/projects/factory-system" element={<FactorySystem />} />
+          <Route path="/projects/minichain" element={<MiniChain />} />
           <Route path="/projects/gams-sudoku" element={<GamsSudoku />} />
           <Route path="/projects/isg" element={<ISG />} />
         </Routes>
